@@ -30,7 +30,7 @@ Power BI, Matplotlib, Seaborn
 
 SQL, Excel
 
-Jupyter Notebook, Git, VS Code
+Jupyter Notebook, VS Code
 
 ---
 
