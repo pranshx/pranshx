@@ -1,114 +1,82 @@
+ <p align="center">
 
-# Hi, I'm Pranshu Mittal! 👋
-
-<div align="center">
-  <img src="https://repository-images.githubusercontent.com/227755997/3171d680-1d98-11ea-9bfd-51ba32490a41" width="700" height="300"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Product+%26+Marketing+Research;Power+BI+%7C+SQL+%7C+Python+Expert;Transforming+Numbers+into+Stories;Advanced+Excel+%7C+Data+Visualization;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
+</p>
+<h1 align="center"> Pranshu Mittal </h1>
+<h3 align="center"> Data Analyst </h3>
+<p align="center"> pranshumittal7373@gmail.com </p>
+<p align="center">
+<a href="https://linkedin.com/in/pranshumittal01/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="pranshumittallinkedin" height="40" width="40" /></a>
+<a href="https://medium.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="medium" height="40" width="50" /></a>
+</p>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialty-Product%20And%20Marketing%20Research-orange?style=for-the-badge" />
+  <em>
+ As a curious Data Analyst, I possess expertise in Excel, SQL, Python, and Power BI, coupled with strong communication, problem-solving and critical thinking skills. I thrive on adding value to my work and making a positive difference in the world through data-driven decisions. I approach challenges with humility and responsibility, always striving to improve while also enjoy the process. This Portfolio showcases the Data Analysis projects I have completed for my self-learning purposes.
+<br><br><br>
+
 </p>
+<img align="right" width=450px height=300px alt="side_sticker" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif"/>
 
-## 🚀 About Me
+<img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="50px">&nbsp;***About me in 30 Seconds***
 
-👋 Hi, I’m Pranshu Mittal
-
-💼 Data Analyst specializing in Product & Marketing Research
-
-🎯 Passionate about data-driven decision making
-
-### 📊 Skilled in:
-
-Python, Pandas, NumPy
-
-Power BI, Matplotlib, Seaborn
-
-SQL, Excel
-
-Jupyter Notebook, VS Code
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Programming & Analysis
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### 📊 Data Visualization & BI
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 🗄️ Database & Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pranshx&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshx&layout=compact&theme=tokyonight&hide_border=true"/> </div>
-
-
-
----
-
-## 💼 Professional Skills Matrix
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Data_Analysis-90%25-blue?style=for-the-badge&logo=chart-dot-js" />
-<img src="https://img.shields.io/badge/Python-85%25-yellow?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Power_BI-95%25-orange?style=for-the-badge&logo=powerbi" />
-<img src="https://img.shields.io/badge/SQL-88%25-red?style=for-the-badge&logo=postgresql" />
-<img src="https://img.shields.io/badge/Excel-92%25-green?style=for-the-badge&logo=microsoft-excel" />
-<img src="https://img.shields.io/badge/Marketing_Research-87%25-purple?style=for-the-badge&logo=google-analytics" />
-
-</div>
-
----
-
-## 📫 Let's Connect & Collaborate!
-
-<div align="center">
+* Learn about me with this short [video resume]().
   
-<a href="mailto:pranshumittal7373.@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/pranshumittal01" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+* My Data Analysis toolkit includes Excel, SQL, Python, Alteryx, Tableau, Power BI and R Programming Language.
+  
+* I regularly write on [LinkedIn](https://linkedin.com/in/pranshumittal01)
 
+* I have a Bachelor's Degree in Computer Application.
 
-</div>
+* When I'm not analyzing data, I read, write or learn new skills.
+  
+<br><br><br>
 
+<img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="50px">&nbsp;***My working tools***
+<p align="left">
+<code><img width = "100" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+<code><img  width="50" src="https://th.bing.com/th/id/OIP.ZoqKs96cGI7oDM6AxUR5AgHaHa?pid=ImgDet&rs=1"></code>
+<!-- <code><img width="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code> -->
+<code><img width="75" src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png"></code>
+<code><img width="75" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
+<!--  <code><img width="130" src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg"></code> -->
+<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"> </code>
+<!-- <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"> </code> -->
+<!--  <code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code> -->
+</p>
+<br><br><br>
+
+<img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="50px">&nbsp;***Core Competencies***
+<p align="left"/>
+
+  * **Methodologies Known**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, Regression Analysis, A/B Testing, Customer Segmentation, RFM Analysis, Machine Learning, Database Design and Normalization, Time Series Analysis.
+
+  * **Technical Skills**: Excel, Pivot Tables, Microsoft SQL Server, Relational Database, Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn).
+
+  * **Soft Skills**: Critical and Analytical Thinking skills, Problem Solving skills, Verbal and Written Communication, Attention to Detail, Fast Learner, Independent and Self Motivated. 
+</p>
+<br><br>
+
+<!-- ## Dashboards
+
+Check out my Power BI and Tableau Dashboards [here](https://github.com/Arpita-deb/Power-BI-Dashboards.git).
+
+## Articles
+
+Check out my Medium Articles [here](https://medium.com/@arpita_deb). -->
+
+<hr>
+<p align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranshx&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="arpita-deb" width="410" height="200" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pranshx&show_icons=true&locale=en&theme=chartreuse-dark" alt="arpita-deb" width="410" height="200"</b></i></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshx&show_icons=true&locale=en&theme=chartreuse-dark" alt="arpita-deb" /></p>
 
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" />
-</div>
 
 
 <!-- Invisible stats for SEO -->
