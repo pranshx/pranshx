@@ -71,9 +71,9 @@ Check out my Medium Articles [here](https://medium.com/@arpita_deb). -->
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranshx&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="arpita-deb" width="410" height="200" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pranshx&show_icons=true&locale=en&theme=chartreuse-dark" alt="arpita-deb" width="410" height="200"</b></i></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshx&show_icons=true&locale=en&theme=chartreuse-dark" alt="arpita-deb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranshx&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="PrnashuMittal" width="410" height="200" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pranshx&show_icons=true&locale=en&theme=chartreuse-dark" alt="PranshuMittal" width="410" height="200"</b></i></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshx&show_icons=true&locale=en&theme=chartreuse-dark" alt="PranshuMittal" /></p>
 
 
 ---
