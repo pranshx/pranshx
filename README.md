@@ -20,7 +20,7 @@
 
 <img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="50px">&nbsp;***About me in 30 Seconds***
 
-* Learn about me with this short [video resume]().
+<!-- * Learn about me with this short [video resume](). -->
   
 * My Data Analysis toolkit includes Excel, SQL, Python, Alteryx, Tableau, Power BI and R Programming Language.
   
