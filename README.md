@@ -22,7 +22,7 @@
 
 <!-- * Learn about me with this short [video resume](). -->
   
-* My Data Analysis toolkit includes Excel, SQL, Python, Alteryx, Tableau, Power BI and R Programming Language.
+* My Data Analysis toolkit includes Excel, SQL, Python and Power BI.
   
 * I regularly write on [LinkedIn](https://linkedin.com/in/pranshumittal01)
 
